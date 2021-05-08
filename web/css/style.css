@@ -1,0 +1,158 @@
+.back {
+    background-image: url(https://i.pinimg.com/originals/a1/f1/f8/a1f1f82d11e9c61c7776414bf025b17c.jpg);
+    height: 80%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.profile {
+    background-image: url(https://img5.goodfon.com/wallpaper/nbig/3/4e/gazety-makro-fon-1.jpg);
+    height: 80%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.regback {
+    background-image: url(https://i.pinimg.com/originals/b1/87/6f/b1876fa7a2c520cd30edcc060a85534d.jpg);
+    height: 80%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.font {
+    font-family: "Open Sans";
+}
+
+
+.login {
+    font-family: "Open Sans";
+    height: 450px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+    justify-content: center;
+    border-radius: 25px;
+
+
+}
+
+.register {
+    font-family: "Open Sans";
+    height: 620px;
+    width: 350px;
+    background-color: white;
+    margin: auto;
+    justify-content: center;
+    border-radius: 25px;
+
+
+}
+
+.loghead {
+    padding-top: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.logemail {
+    padding-left: 30px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.logpass {
+    padding-left: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.morelogin {
+    margin-top: 15px;
+    margin-left: 30px;
+    justify-content: center;
+    font-size: 15px;
+}
+
+
+.navstyle {
+    height: 60px;
+    width: 100%;
+    background-color: white;
+}
+
+
+.downnav {
+    width: 100%;
+    height: 60px;
+}
+
+.cardtitle {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.cardcontent {
+    font-size: 16px;
+    color: black;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.cardread {
+    margin-top: 30px;
+    padding-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.but {
+    height: 40px;
+    width: 70%;
+    background-color: black;
+    margin: auto;
+}
+
+a.cardread:hover {
+    color: #f7f7f7;
+}
+
+
+.readmorehead {
+    font-size: 40px;
+    justify-content: center;
+    margin: auto;
+}
+
+.readmoredate {
+    font-size: 15px;
+
+}
+
+.aboutpubhead {
+    margin: auto;
+    justify-content: center;
+    height: 40px;
+    color: white;
+}
