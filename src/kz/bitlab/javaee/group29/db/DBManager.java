@@ -16,7 +16,7 @@ public class DBManager {
 
         try {
             Class.forName("org.postgresql.Driver");
-            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/Worldnews", "postgres", "oxygen16");
+            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/Worldnews", "postgres", "");
 
         }catch (Exception e){
             e.printStackTrace();
